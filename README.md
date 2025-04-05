@@ -1,4 +1,4 @@
 # HIV_Data_Analysis
 
 ## Summary : 
-For This HIV Data Analysis Tasks. I Have Three WHO HIV Datasets Which Contains Data From Year 1990 to 2019. Before Visualizng This Dataset On Tableau It Needs To Be cleaned First. So I use Python For Cleaning The Datasets. First I cleaned This Three Datasets Separately And Then Join/Merge This Three Datasets Using Inner Join and Then Export The Final Cleaned & Merged Dataset into an Excel File Which I later Use To Visualize This Dataset On Tableau.
+For this HIV data analysis task, I worked with three WHO datasets containing data from 1990 to 2019. Before visualizing the data in Tableau, it was essential to clean and prepare the datasets. I used Python for the data cleaning process — first cleaning each dataset individually, and then merging all three using an inner join. The final cleaned and merged dataset was exported to an Excel file, which was later used for creating visualizations in Tableau.
